@@ -1,0 +1,8 @@
+com\one_to_one\hibernate\model\Customer1.class
+com\one_to_one\hibernate\model\Txn1.class
+com\one_to_one\hibernate\main\HibernateOneToOneMain.class
+com\one_to_one\hibernate\main\HibernateOneToOneAnnotationMain.class
+com\one_to_one\hibernate\model\Txn.class
+com\one_to_one\hibernate\util\HibernateAnnotationUtil.class
+com\one_to_one\hibernate\util\HibernateUtil.class
+com\one_to_one\hibernate\model\Customer.class
